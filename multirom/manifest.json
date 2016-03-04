@@ -11,21 +11,21 @@
 						"url": "http://JustAkan.github.io/multirom/installer/multirom-20160305-v33-UNOFFICIAL-bullhead.zip",
 						"version": "33",
 						"type": "multirom",
-						"size": 3931520,
+						"size": 6512881,
 						"md5": "2cc7444998676c5d31277ff456f8751b"
 					},
 					{
 						"url": "http://JustAkan.github.io/multirom/recovery/jolla_TWRP_bullhead_2016-03-05.img",
 						"version": "mrom20160305-01",
 						"type": "recovery",
-						"size": 9410560,
+						"size": 20041728,
 						"md5": "5c996065dc492e69de0826bd55d6af7c"
 					},
 					{
 						"url": "http://JustAkan.github.io/multirom/uninstaller/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
-						"size": 1623269,
+						"size": 1706459,
 						"md5": "f10f700d58892ff0326439ce9f9d9111"
 					}
 				],
