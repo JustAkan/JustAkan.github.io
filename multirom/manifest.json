@@ -8,15 +8,15 @@
 			{"files":
 				[
 					{
-						"url": "http://JustAkan.github.io/multirom/installer/multirom-20160218-v33-UNOFFICIAL-bullhead.zip",
+						"url": "http://JustAkan.github.io/multirom/installer/multirom-20160305-v33-UNOFFICIAL-bullhead.zip",
 						"version": "33",
 						"type": "multirom",
 						"size": 3931520,
 						"md5": "85fe4f2586081814d5989c38c94256ae"
 					},
 					{
-						"url": "http://JustAkan.github.io/multirom/recovery/jolla_TWRP_bullhead_2016-03-01.img",
-						"version": "mrom20160301-01",
+						"url": "http://JustAkan.github.io/multirom/recovery/jolla_TWRP_bullhead_2016-03-05.img",
+						"version": "mrom20160305-01",
 						"type": "recovery",
 						"size": 9410560,
 						"md5": "7e9a38cf18fdabe95e81d74491f28ceb"
@@ -33,7 +33,7 @@
                         "ubuntu_touch":
 				{
                                         "req_multirom": "33",
-                                        "req_recovery": "mrom20160301-01"
+                                        "req_recovery": "mrom20160305-01"
 				}
 			}
 		]
