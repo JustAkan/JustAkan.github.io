@@ -1,40 +1,42 @@
 {
-	"status": "ok",
-	"date": "2016-03-01",
-	"commands": "",
-	"gpg": false,
-	"devices":
-		[
-			{"files":
-				[
-					{
-						"url": "http://JustAkan.github.io/multirom/installer/multirom-20160305-v33-UNOFFICIAL-bullhead.zip",
-						"version": "33",
-						"type": "multirom",
-						"size": 6512881,
-						"md5": "2cc7444998676c5d31277ff456f8751b"
-					},
-					{
-						"url": "http://JustAkan.github.io/multirom/recovery/jolla_TWRP_bullhead_2016-03-05.img",
-						"version": "mrom20160305-01",
-						"type": "recovery",
-						"size": 20041728,
-						"md5": "5c996065dc492e69de0826bd55d6af7c"
-					},
-					{
-						"url": "http://JustAkan.github.io/multirom/uninstaller/multirom_uninstaller.zip",
-						"version": "",
-						"type": "uninstaller",
-						"size": 1706459,
-						"md5": "f10f700d58892ff0326439ce9f9d9111"
-					}
-				],
-                        "name": "bullhead",
-                        "ubuntu_touch":
-				{
-                                        "req_multirom": "33",
-                                        "req_recovery": "mrom20160305-01"
-				}
-			}
-		]
+    "status": "ok",
+    "date": "2016-03-06",
+    "commands": "",
+    "gpg": false,
+    "devices": [
+        {
+            "files": [
+                {
+                    "url": "http://JustAkan.github.io/multirom/installer/multirom-20160305-v33-UNOFFICIAL-bullhead.zip",
+                    "version": "33",
+                    "type": "multirom",
+                    "size": 6738185,
+                    "md5": "b5e0b593f2cfc54cb6f00d4b09555d70"
+                },
+                {
+                    "url": "http://JustAkan.github.io/multirom/recovery/jolla-recovery_bullhead-v6.2_160307.img",
+                    "version": "mrom20160307-00",
+                    "type": "recovery",
+                    "size": 20041728,
+                    "md5": "796d757a0cde5e110863da55ff599c28"
+                },
+                {
+                    "url": "http://JustAkan.github.io/multirom/jolla-kernel_AIO_bullhead-v6.2.zip",
+                    "version": "jolla-kernel_AIO_bullhead-v6.2",
+                    "type": "kernel",
+                    "size": 52370560,
+                    "md5": "404a9249caaa270b46ea4dcaec1ce4a4"
+                },
+                {
+                    "url": "http://JustAkan.github.io/multirom/uninstaller/multirom_uninstaller.zip",
+                    "version": "",
+                    "type": "uninstaller",
+                    "size": 1709715,
+                    "md5": "97C386D21032779C64A000389BB4EBE2"
+                }
+            ],
+            "changelogs": [],
+            "name": "bullhead"
+        }
+    ]
 }
